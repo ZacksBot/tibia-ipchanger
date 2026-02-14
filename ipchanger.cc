@@ -413,10 +413,10 @@ int main(int argc, char **argv){
 			112,				// LoginEndpointStride
 			100,				// MaxHostNameSize
 			312,				// MaxRsaModulusSize
-			0x55C65D,			// VersionStringAddr
-			0x7152F8,			// FirstLoginHostNameAddr
-			0x71535C,			// FirstLoginPortAddr
-			0x55B620,			// RsaModulusAddr
+			0x58E695,			// VersionStringAddr
+			0x755E88,			// FirstLoginHostNameAddr
+			0x755EEC,			// FirstLoginPortAddr
+			0,					// RsaModulusAddr
 		},
 		{
 			810,				// Version
