@@ -416,7 +416,7 @@ int main(int argc, char **argv){
 			0x58E695,			// VersionStringAddr
 			0x755E88,			// FirstLoginHostNameAddr
 			0x755EEC,			// FirstLoginPortAddr
-			0x55B620,			// RsaModulusAddr
+			0x58D658,			// RsaModulusAddr
 		},
 		{
 			810,				// Version
