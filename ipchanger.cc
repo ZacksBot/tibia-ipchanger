@@ -407,6 +407,18 @@ int main(int argc, char **argv){
 			0x55B620,			// RsaModulusAddr
 		},
 		{
+			792,				// Version
+			"Version 7.92",		// VersionString
+			5,					// NumLoginEndpoints
+			112,				// LoginEndpointStride
+			100,				// MaxHostNameSize
+			312,				// MaxRsaModulusSize
+			0x55C65D,			// VersionStringAddr
+			0x7152F8,			// FirstLoginHostNameAddr
+			0x71535C,			// FirstLoginPortAddr
+			0x55B620,			// RsaModulusAddr
+		},
+		{
 			810,				// Version
 			"Version 8.10",		// VersionString
 			10,					// NumLoginEndpoints
